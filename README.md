@@ -2,19 +2,20 @@
 
 ![Computer Clipart](https://github.com/AnthonySigona/EE332/assets/117102220/e04067fe-c659-42b7-8443-d569c99c8485)
 
-**This is bold text**
+**The picture above this is a computer, and this text is bold**
 
-_This is italic text_
+_This italic text looks like it's about to fall over_
 
-> "Block quote"
+> "You miss 100% of the shots you don't take"
 ---
-* Unordered list 1
-* Unordered list 2
-* Unorder list 3
+_Shopping List_
+* Milk
+* Eggs
+* Cheese
 ---
-1. Ordered list 1
-2. Ordered List 2
-3. Ordered List 3
+1. I wasn't 100% sure
+2. what to include as
+3. specifics for the list
 ---
 ```
 cout<<"Hello World"<<endl;
